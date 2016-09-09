@@ -1,0 +1,23 @@
+
+body {
+	background-color: purple;
+}
+h1{
+	color:;
+	font-family: cursive;
+	text-align: center;
+	text-decoration: underline;
+}
+h2{
+	color: gold;
+	font-family: luminari;
+	text-align: center;
+	text-decoration: underline;
+}
+h3{
+	color: green;
+	font-family: phosphate;
+	text-align: center;
+	text-decoration: underline;
+}
+
